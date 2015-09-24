@@ -1,0 +1,1 @@
+Redirect LAN PC's HTTP connection to the specific warning page on router
