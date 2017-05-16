@@ -4,8 +4,8 @@ to redirect the connections from its LAN(Local Area Network) to
 its management page.
 
 The router will block the connection with pre-defined keywords 
-by iptables drop or connnection reset. Later, the connection will 
-be reidrected to a warning page (default: http://gateway-ip/block.html)  
+by iptables drop or connection reset. Later, the connection will 
+be redirected to a warning page (default: http://gateway-ip/block.html)  
 
 ### Prerequisites
  - `raw socket` library in you Linux
